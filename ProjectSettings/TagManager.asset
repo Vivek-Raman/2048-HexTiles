@@ -52,3 +52,6 @@ TagManager:
   - name: Tile
     uniqueID: 1612090045
     locked: 0
+  - name: Text
+    uniqueID: 372531475
+    locked: 0
